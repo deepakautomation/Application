@@ -76,6 +76,10 @@ vi conf/tomcat-users.xml
   
   ![Image description](https://github.com/deepakautomation/Application/blob/master/09-04-20-1308.png)
   
+  The project should be successfully deployed on the tomcat as below:
+  ![Image description](https://github.com/deepakautomation/Application/blob/master/09-04-20-1324.png)
+  
+  
   
   
   
